@@ -1,0 +1,134 @@
+@font-face {font-family: 'BBadr';src: local('BBadr.ttf'),url('../fonts/BBadr.ttf') format('truetype');}
+
+@font-face {font-family: 'BBaran';src: local('BBaran.ttf'),url('../fonts/BBaran.ttf') format('truetype');}
+
+@font-face {font-family: 'BBardiya';src: local('BBardiya.ttf'),url('../fonts/BBardiya.ttf') format('truetype');}
+
+@font-face {font-family: 'BCompset';src: local('BCompset.ttf'),url('../fonts/BCompset.ttf') format('truetype');}
+
+@font-face {font-family: 'BDavat';src: local('BDavat.ttf'),url('../fonts/BDavat.ttf') format('truetype');}
+
+@font-face {font-family: 'BElham';src: local('BElham.ttf'),url('../fonts/BElham.ttf') format('truetype');}
+
+@font-face {font-family: 'BEsfehanBold';src: local('BEsfehanBold.ttf'),url('../fonts/BEsfehanBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BFantezy';src: local('BFantezy.ttf'),url('../fonts/BFantezy.ttf') format('truetype');}
+
+@font-face {font-family: 'BFarnaz';src: local('BFarnaz.ttf'),url('../fonts/BFarnaz.ttf') format('truetype');}
+
+@font-face {font-family: 'BFerdosi';src: local('BFerdosi.ttf'),url('../fonts/BFerdosi.ttf') format('truetype');}
+
+@font-face {font-family: 'BHamid';src: local('BHamid.ttf'),url('../fonts/BHamid.ttf') format('truetype');}
+
+@font-face {font-family: 'BHelal';src: local('BHelal.ttf'),url('../fonts/BHelal.ttf') format('truetype');}
+
+@font-face {font-family: 'BHoma';src: local('BHoma.ttf'),url('../fonts/BHoma.ttf') format('truetype');}
+
+@font-face {font-family: 'BJadidBold';src: local('BJadidBold.ttf'),url('../fonts/BJadidBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BJalal';src: local('BJalal.ttf'),url('../fonts/BJalal.ttf') format('truetype');}
+
+@font-face {font-family: 'BKoodakBold';src: local('BKoodakBold.ttf'),url('../fonts/BKoodakBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BKourosh';src: local('BKourosh.ttf'),url('../fonts/BKourosh.ttf') format('truetype');}
+
+@font-face {font-family: 'BLotus';src: local('BLotus.ttf'),url('../fonts/BLotus.ttf') format('truetype');}
+
+@font-face {font-family: 'BMahsa';src: local('BMahsa.ttf'),url('../fonts/BMahsa.ttf') format('truetype');}
+
+@font-face {font-family: 'BMehrBold';src: local('BMehrBold.ttf'),url('../fonts/BMehrBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BMitra';src: local('BMitra.ttf'),url('../fonts/BMitra.ttf') format('truetype');}
+
+@font-face {font-family: 'BMorvarid';src: local('BMorvarid.ttf'),url('../fonts/BMorvarid.ttf') format('truetype');}
+
+@font-face {font-family: 'BNarm';src: local('BNarm.ttf'),url('../fonts/BNarm.ttf') format('truetype');}
+
+@font-face {font-family: 'BNasimBold';src: local('BNasimBold.ttf'),url('../fonts/BNasimBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BNazanin';src: local('BNazanin.ttf'),url('../fonts/BNazanin.ttf') format('truetype');}
+
+@font-face {font-family: 'BRoya';src: local('BRoya.ttf'),url('../fonts/BRoya.ttf') format('truetype');}
+
+@font-face {font-family: 'BSetarehBold';src: local('BSetarehBold.ttf'),url('../fonts/BSetarehBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BShiraz';src: local('BShiraz.ttf'),url('../fonts/BShiraz.ttf') format('truetype');}
+
+@font-face {font-family: 'BSinaBold';src: local('BSinaBold.ttf'),url('../fonts/BSinaBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BTabassom';src: local('BTabassom.ttf'),url('../fonts/BTabassom.ttf') format('truetype');}
+
+@font-face {font-family: 'BTehran';src: local('BTehran.ttf'),url('../fonts/BTehran.ttf') format('truetype');}
+
+@font-face {font-family: 'BTitrBold';src: local('BTitrBold.ttf'),url('../fonts/BTitrBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BTitrTGEBold';src: local('BTitrTGEBold.ttf'),url('../fonts/BTitrTGEBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BTraffic';src: local('BTraffic.ttf'),url('../fonts/BTraffic.ttf') format('truetype');}
+
+@font-face {font-family: 'BVahidBold';src: local('BVahidBold.ttf'),url('../fonts/BVahidBold.ttf') format('truetype');}
+
+@font-face {font-family: 'BYagut';src: local('BYagut.ttf'),url('../fonts/BYagut.ttf') format('truetype');}
+
+@font-face {font-family: 'BYas';src: local('BYas.ttf'),url('../fonts/BYas.ttf') format('truetype');}
+
+@font-face {font-family: 'BYekan';src: local('BYekan.ttf'),url('../fonts/BYekan.ttf') format('truetype');}
+
+@font-face {font-family: 'BZar';src: local('BZar.ttf'),url('../fonts/BZar.ttf') format('truetype');}
+
+@font-face {font-family: 'BZiba';src: local('BZiba.ttf'),url('../fonts/BZiba.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar1_v201';src: local('Entezar1_v2.0.1.ttf'),url('../fonts/Entezar1_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar2_v201';src: local('Entezar2_v2.0.1.ttf'),url('../fonts/Entezar2_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar3_v201';src: local('Entezar3_v2.0.1.ttf'),url('../fonts/Entezar3_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar4_v201';src: local('Entezar4_v2.0.1.ttf'),url('../fonts/Entezar4_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar5_v201';src: local('Entezar5_v2.0.1.ttf'),url('../fonts/Entezar5_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Entezar6_v201';src: local('Entezar6_v2.0.1.ttf'),url('../fonts/Entezar6_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarB3_v201';src: local('EntezarB3_v2.0.1.ttf'),url('../fonts/EntezarB3_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarB4_v201';src: local('EntezarB4_v2.0.1.ttf'),url('../fonts/EntezarB4_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarC3_v201';src: local('EntezarC3_v2.0.1.ttf'),url('../fonts/EntezarC3_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarC_v201';src: local('EntezarC_v2.0.1.ttf'),url('../fonts/EntezarC_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarD3_v201';src: local('EntezarD3_v2.0.1.ttf'),url('../fonts/EntezarD3_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarD5_v201';src: local('EntezarD5_v2.0.1.ttf'),url('../fonts/EntezarD5_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarD6_v201';src: local('EntezarD6_v2.0.1.ttf'),url('../fonts/EntezarD6_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarD8_v201';src: local('EntezarD8_v2.0.1.ttf'),url('../fonts/EntezarD8_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarD_v201';src: local('EntezarD_v2.0.1.ttf'),url('../fonts/EntezarD_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarE2_v201';src: local('EntezarE2_v2.0.1.ttf'),url('../fonts/EntezarE2_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarE3_v201';src: local('EntezarE3_v2.0.1.ttf'),url('../fonts/EntezarE3_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'EntezarF2_v201';src: local('EntezarF2_v2.0.1.ttf'),url('../fonts/EntezarF2_v2.0.1.ttf') format('truetype');}
+
+@font-face {font-family: 'Far_Mitra';src: local('Far_Mitra.ttf'),url('../fonts/Far_Mitra.ttf') format('truetype');}
+
+@font-face {font-family: 'nasimbold';src: local('nasimbold.ttf'),url('../fonts/nasimbold.ttf') format('truetype');}
+
+@font-face {font-family: 'parastoo';src: local('parastoo.ttf'),url('../fonts/parastoo.ttf') format('truetype');}
+
+@font-face {font-family: 'roya';src: local('roya.ttf'),url('../fonts/roya.ttf') format('truetype');}
+
+@font-face {font-family: 'samim';src: local('samim.ttf'),url('../fonts/samim.ttf') format('truetype');}
+
+@font-face {font-family: 'shabnam';src: local('shabnam.ttf'),url('../fonts/shabnam.ttf') format('truetype');}
+
+@font-face {font-family: 'tanha';src: local('tanha.ttf'),url('../fonts/tanha.ttf') format('truetype');}
+
+@font-face {font-family: 'vazir';src: local('vazir.ttf'),url('../fonts/vazir.ttf') format('truetype');}
+
+@font-face {font-family: 'yekan';src: local('yekan.ttf'),url('../fonts/yekan.ttf') format('truetype');}
+
